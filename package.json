@@ -1,0 +1,20 @@
+{
+  "name": "vuejs-express-generator",
+  "version": "1.0.0",
+  "description": "Vue.js-Express Generator is designed to erect an app scaffold which use Vue.js for frontend and Express for backend.",
+  "main": "index.js",
+  "bin": {
+    "vue-express": "./bin/generator.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "express",
+    "vue.js",
+    "generator"
+  ],
+  "author": "Yongdeok An",
+  "license": "ISC"
+}

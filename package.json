@@ -16,5 +16,8 @@
     "generator"
   ],
   "author": "Yongdeok An",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
 }

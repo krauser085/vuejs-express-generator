@@ -19,6 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.3.3",
+    "commander": "^2.19.0",
     "questions": "0.0.6"
   }
 }

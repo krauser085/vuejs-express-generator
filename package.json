@@ -1,6 +1,6 @@
 {
   "name": "vuejs-express-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Vue.js-Express Generator is designed to erect an app scaffold which use Vue.js for frontend and Express for backend.",
   "main": "./lib/index.js",
   "bin": {

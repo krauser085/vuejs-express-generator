@@ -1,4 +1,5 @@
-### Vue.js-Express Generator is designed to erect an app scaffold which use Vue.js for frontend and Express for backend.
+### Welcome to Vue.js-Express Generator
+This is designed to erect an app scaffold which use Vue.js for frontend and Express for backend.
 
 <br/>
 

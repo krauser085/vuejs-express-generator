@@ -1,18 +1,28 @@
 # Installation
-```$ npm install -g vuejs-express-generator```
+```
+$ npm install -g vuejs-express-generator
+```
 
 # Quick Start
 Create your App:
-```$ vue-express { project directory }```
+```
+$ vue-express { project directory }
+```
 
 Move to the directory of the App:
-```$ cd { project directory }```
+```
+$ cd { project directory }
+```
 
 Install all dependancies:
-```$ npm install```
+```
+$ npm install
+```
 
 Start Vue.js & Express application at http://localhost:3000 :
-```$ npm start```
+```
+$ npm start
+```
 
 # Command Line Options
 Updating New features for different options

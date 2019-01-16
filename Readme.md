@@ -1,7 +1,13 @@
+## Vue.js-Express Generator is designed to erect an app scaffold which use Vue.js for frontend and Express for backend.
+
+<br/>
+
 # Installation
 ```
 $ npm install -g vuejs-express-generator
 ```
+
+<br/>
 
 # Quick Start
 Create your App:
@@ -23,6 +29,8 @@ Start Vue.js & Express application at http://localhost:3000 :
 ```
 $ npm start
 ```
+
+<br/>
 
 # Command Line Options
 Updating New features for different options

@@ -1,4 +1,3 @@
 #!/usr/bin/env node
-
-var generator = require('../index.js')
-generator.printMsg()
+var generator = require('../lib/index.js')
+generator.makeApp()

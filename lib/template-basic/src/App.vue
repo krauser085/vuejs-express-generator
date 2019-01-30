@@ -34,8 +34,8 @@ export default {
 }
 </script>
 
-{{#ifEquals style.type "stylus"}}
 <style{{{style.tag}}}>
+{{#ifEquals style.type "stylus"}}
 #app
   font-family 'Avenir', Helvetica, Arial, sans-serif
   -webkit-font-smoothing antialiased
@@ -44,7 +44,6 @@ export default {
   color #2c3e50
   margin-top 60px
 {{else}}
-<style{{{style.tag}}}>
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
